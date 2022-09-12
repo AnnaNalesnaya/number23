@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "ДЗ Семинар 3/1.0.0": {
+      "Задача23/1.0.0": {
         "runtime": {
-          "ДЗ Семинар 3.dll": {}
+          "Задача23.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ДЗ Семинар 3/1.0.0": {
+    "Задача23/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

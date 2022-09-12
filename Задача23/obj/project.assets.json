@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\ДЗ Семинар 3\\ДЗ Семинар 3.csproj",
-      "projectName": "ДЗ Семинар 3",
-      "projectPath": "C:\\Users\\Пользователь\\Desktop\\ДЗ Семинар 3\\ДЗ Семинар 3.csproj",
+      "projectUniqueName": "C:\\Users\\Пользователь\\Desktop\\ДЗ Семинар 3\\Задача23\\Задача23.csproj",
+      "projectName": "Задача23",
+      "projectPath": "C:\\Users\\Пользователь\\Desktop\\ДЗ Семинар 3\\Задача23\\Задача23.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Пользователь\\Desktop\\ДЗ Семинар 3\\obj\\",
+      "outputPath": "C:\\Users\\Пользователь\\Desktop\\ДЗ Семинар 3\\Задача23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
